@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TinhLaiSuatKep:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/TinhLaiSuatKep_jar2</output-path>
+    <root id="archive" name="TinhLaiSuatKep.jar">
+      <element id="module-output" name="TinhLaiSuatKep" />
+    </root>
+  </artifact>
+</component>
